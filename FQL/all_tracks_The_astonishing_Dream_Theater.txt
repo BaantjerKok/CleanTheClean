@@ -1,0 +1,14 @@
+([(1,"Descent of the nomacs","1:10"),(2,"Dystopian overture","4:50"),(3,"The gif
+t of music","4:00"),(4,"The answer","1:52"),(5,"A better life","4:39"),(6,"Lord
+Nafaryus","3:28"),(7,"A savior in the square","4:13"),(8,"When your time has com
+e","4:19"),(9,"Act of Faythe","5:00"),(10,"Three days","3:44"),(11,"The hovering
+ sojourn","0:27"),(12,"Brother, can you hear me?","5:11"),(13,"A life left behin
+d","5:49"),(14,"Ravenskill","6:01"),(15,"Chosen","4:32"),(16,"A tempting offer",
+"4:19"),(17,"Digital discord","0:47"),(18,"The X aspect","4:13"),(19,"A new begi
+nning","7:41"),(20,"The road to revolution","3:35"),(21,"2285 Entr'acte","2:20")
+,(22,"Moment of betrayal","6:11"),(23,"Heaven's cove","4:20"),(24,"Begin again",
+"3:54"),(25,"The path that divides","5:09"),(26,"Machine chatter","1:03"),(27,"T
+he walking shadow","2:58"),(28,"My last farewell","3:44"),(29,"Losing Faythe","4
+:13"),(30,"Whispers on the wind","1:37"),(31,"Hymn of a thousand voices","3:38")
+,(32,"Our new world","4:12"),(33,"Power down","1:25"),(34,"Astonishing","5:51")]
+,65536)

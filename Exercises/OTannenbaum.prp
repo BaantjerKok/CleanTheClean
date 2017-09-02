@@ -1,0 +1,18 @@
+Version: 1.4
+MainModule
+	Name:	OTannenbaum
+	Dir:	{Project}
+	Dcl
+		WindowPosition
+			X:	739
+			Y:	16
+			SizeX:	800
+			SizeY:	576
+	DclOpen:	True
+	Icl
+		WindowPosition
+			X:	10
+			Y:	10
+			SizeX:	800
+			SizeY:	576
+	IclOpen:	True

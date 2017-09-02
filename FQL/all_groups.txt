@@ -1,0 +1,50 @@
+(["Adele","Afro Celt Sound System","After forever","Air","Airbag","Alanis Morise
+tte","Alex Roeka","Alexander Borodin","All them witches","Amadou & Mariam","Ambr
+osia","Anathema","And You Will Know Us By The Trail Of Dead","Anderson Bruford W
+akeman Howe","Animals as leaders","Anouk","Anton Bruckner","Antonio Vivaldi","Ar
+ena","Atoms for peace","Ayreon","Bailter space","Barclay James Harvest","Beck","
+Ben Frost & DanÝel Bjarnason","Benjamin Britten","Beth Orton","Bettie serveert",
+"Biffy Clyro","Big big train","Bigelf","Bill Bruford","Bill Payne","Bill Whelan"
+,"Billy Currie","Birth of joy","Bj÷rk","Blaudzun","Boudewijn de Groot","Bozzio,
+Levin, Stevens","Bruce Springsteen","Buddy Guy","Camille Saint-SaÙns","Carl Niel
+sen","Carl Orff","Celine Dion","Charlie Parker with Miles Davis","Clannad","Clas
+sic Rock","Classic rock","Codeine","Coldplay","Colin Stetson and Sarah Neufeld",
+"Cran","Curve","Daryll-Ann","David Gilmour","David Sylvian","David Sylvian and R
+obert Fripp","De Staat","De Standaards van Spits","Dead can dance","Deep Purple"
+,"Dido","Dirty three","Diverse artiesten","Don Airey","Doves","Down","Dream Thea
+ter","Dropkick Murphys","Editors","Edvard Grieg & Jean Sibelius","Enochian theor
+y","Faithless","Feist","Fish","Focus","Forcefield II","Friends of Dean Martinez"
+,"GTR","Gandillion","Garbage","Gary Moore","Gazpacho","Genesis","Gentle Giant","
+Georg Friedrich Hõndel","George Gershwin","Ghostpoet","Godspeed You! Black Emper
+or","Goldfrapp","Graveyard","Guided by voices","Gustav Holst and Gy÷rgi Ligeti",
+"Gustav Mahler","Hot line & Darryl Kennedy","IQ","Ibrahim Maalouf","Igor Strawin
+sky","Iona","Iron maiden","James LaBrie","Jan Akkerman","Jean Sibelius","Jimi He
+ndrix","Joan As Police Woman","JoaquÝn Rodrigo","Joe Bonamassa","Joe Satriani","
+Joe Satriani, Eric Johnson, Steve Vai","Joe Satriani, Steve Vai, Yngwie Malmstee
+n","Johan","Johan de Meij & Jerry Bilik","Johann Sebastian Bach","John McLaughli
+n: Al di Meola: Paco de Lucia","John Petrucci & Jordan Rudess","Jon Lord","Jon a
+nd Vangelis","Julia Kent","K's choice","Kamelot","King Crimson","King Gizzard an
+d the Lizard Wizard","Kings of Leon","Kong","Kovacs","Kula shaker","Leonard Bern
+stein","Liquid tension experiment","Lisa Gerrard","Lisa Gerrard & Pieter Bourke"
+,"Live","Loreena McKennitt","LowRider","Ludovico Einaudi","Lunatic soul","Malia
+& Boris Blank","Manic street preachers","Marco Borsato","Marillion","Mastodon","
+Maurice Ravel & Claude Debussy","Megadeth","Melanie de Biasio","Miles Davis","Mi
+tchell Froom","Moonspell","Moss","Mullmuzzler","Mumford & Sons","Muse","Myrath",
+"Navarone","Nightwish","Nikolai Rimsky-Korsakov & Alexander Glazunov","Nits","No
+rah Jones","OSI","Oasis","Oorgasm","Opeth","Ottorino Respighi","Panic room","Pau
+l Gilbert","Paul Simon","Peter Gabriel","Phideaux","Philip Glass","Pink Floyd","
+Planet X","Pop in je moerstaal","Porcupine Tree","Porcupine tree","Portishead","
+Prince and the Revolution","Queensr che","R.E.M.","Radiohead","Redemption","Rich
+ard Strauss","Richard Wagner","Rival sons","Riverside","Rocket Scientists","Roge
+r Waters","Rolling Stones","Rush","Sam Brown","Samuel Barber","Santana","Serge P
+rokofiev","Sergey Prokofiev","Shadow gallery","SinÚad o'Connor","Skin","Skunk An
+ansie","Sleepytime gorilla museum","Smashing Pumpkins","Snow patrol","Soulsavers
+","Spyro Gyra","St. Germain","Stabbing westward","Star one","Steve Hunter","Stev
+e Vai","Steven Wilson","Sting","Supertramp","Suzanne Vega","Swans","Sylvan","Sym
+phony X","Talk Talk","Tangerine Dream","Tarja","The Alan Parsons Project","The B
+oo Radleys","The Clash","The Corrs","The Cranberries","The Flower Kings","The Ga
+thering","The Rolling Stones","The black noodle project","The church","The decem
+berists","The flaming lips","The golden palominos","The stills","Thom Yorke","Ti
+amat","Tool","Transatlantic","U2","Ulver","Unexpect","Vangelis","Virgin Records
+Ltd.","Vivaldi & Corelli & Albinoni","Wende","Within Temptation","Wolfgang Amade
+us Mozart","Wolfmother","Yes","dEUS","van Dinter records"],65536)

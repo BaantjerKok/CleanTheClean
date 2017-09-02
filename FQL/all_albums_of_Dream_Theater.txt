@@ -1,0 +1,7 @@
+([(1992,"Images and words"),(1994,"Awake"),(1995,"A change of seasons"),(1997,"F
+alling into infinity"),(1998,"Once in a livetime"),(1999,"Scenes from a memory")
+,(2002,"Six degrees of inner turbulence"),(2003,"Train of thought"),(2004,"Live
+at Budokan"),(2005,"Octavarium"),(2006,"Score"),(2007,"Systematic Chaos"),(2009,
+"Black clouds & silver linings"),(2009,"Black clouds & silver linings (bonus dis
+c 1)"),(2009,"Black clouds & silver linings (bonus disc 2)"),(2011,"A dramatic t
+urn of events"),(2013,"Dream Theater"),(2016,"The astonishing")],65536)
