@@ -19,7 +19,7 @@ THE USE OF THE REPOSITORY AND ITS CONTENTS IS AT YOUR OWN DISCRETION.
 
 2. CONDITION OF USE
 As a condition of use, you promise not the use the repository for any purpose that is unlawful
-or prohibited by these TOS, or any other purpose not reasonably intended (and not limited) by the list below:
+or prohibited by these Terms, or any other purpose not reasonably intended (and not limited) by the list below:
 
 	REDISTRIBUTE the repository in the ORIGINAL UNALTERED STATE
 	Claim ownership over the repository
